@@ -1,0 +1,45 @@
+.margin-spacing {
+  margin: 20px 25px;
+}
+
+.centralizado {
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+
+}
+
+.bloco {
+  display: inline !important;
+}
+
+.button {
+  margin: 5px !important;
+  box-shadow: none !important;
+}
+
+.size-button {
+  width: 300px;
+}
+
+.break-justify {
+  text-align: justify;
+}
+
+#numero {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#numero-escolhido {
+  font-weight: bold;
+  font-size: 15px;
+  color: red;
+}
+
+#texto-normal-numero-escolhido {
+  border-bottom: 3px dotted red
+    /*text-decoration: underline*/
+}

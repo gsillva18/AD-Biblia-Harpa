@@ -1,0 +1,28 @@
+.button {
+  margin: 5px !important;
+}
+
+.bloco {
+  display: inline !important;
+}
+
+.spacing {
+  width: 100%;
+}
+
+.aligment {
+  margin: auto;
+}
+
+#id-linha-bold {
+  font-weight: bold;
+}
+
+#id-linha-autor {
+  font-size: 16px;
+}
+
+#id-ultima-strofe {
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
